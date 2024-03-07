@@ -14,8 +14,11 @@ Google Cloud Platform
 1. Google Storage
 2. Compute Instance
 3. BigQuery
+4. Lookerstudio
+5. Modern Data Pipeine Tool - https://www.mage.ai/
 
-Modern Data Pipeine Tool - https://www.mage.ai/
+## Dashboard
+[Uber](https://lookerstudio.google.com/reporting/2fd03b96-438a-443b-b453-9ffe87836843?s=sKHEi4mW06M)
 
 ## Dataset Used
 
